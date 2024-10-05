@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning advanced MERN stack
 - 🤔 I’m looking for help with development operations
 - 💬 Ask me about web development and projects related to it
-- 📫 How to reach me: nagwanirishab@gmail.com
+- 📫 How to reach me: nagwanirishab@gmail.com or <a>Linkedin Page<a/>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I eat a lot and I love to drive, and I also play Valorant hehe.
 
