@@ -15,7 +15,7 @@ Here are some of the skills I am familiar with:
 - **Languages:** Python, C, C++, Java, HTML, CSS, JavaScript
 - **Frameworks:** ReactJS, NextJS, Tailwind CSS, Bootstrap, ExpressJS
 - **Tools:** Node.js, Postman, MongoDB, REST API, Razorpay API, GitHub and GitHub Co-Pilot, GitHub Pages, MS Office
-- **Certificates:** To view all my certificates, visit my <a href="https://www.linkedin.com/in/rishab-nagwani-53a37628a/details/certifications/" target="_blank">LinkedIn profile</a>
+- **Certificates:** To view all my certificates, visit my <a href="https://www.linkedin.com/in/rishab-nagwani-53a37628a/details/certifications/" target="_blank" rel="noopener noreferrer">LinkedIn profile</a>
 
 ## Projects
 
