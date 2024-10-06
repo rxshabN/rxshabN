@@ -14,12 +14,8 @@ I’m Rishab Nagwani, currently in my 2nd year pursuing a B.Tech in Computer Sci
 ## 🗺️ My Journey:
 At VIT, my goal has been to challenge myself by exploring new areas of the tech industry, and this passion has driven me to continually grow and adapt. Today, I specialize in Web Development, with a strong command of the MERN stack and expertise in automated deployment and testing. I’m proficient in programming languages like Python, C/C++, and Java, and I’m committed to deepening my knowledge of MERN full stack development, DevOps, and Data Structures & Algorithms.
 
-## 🔥 Skills:
-Here are some of the skills I am familiar with:
-- **Languages:** Python, C, C++, Java, HTML, CSS, JavaScript
-- **Frameworks:** ReactJS, NextJS, Tailwind CSS, Bootstrap, ExpressJS
-- **Tools:** Node.js, Postman, MongoDB, REST API, Razorpay API, Vercel, MS Office
-- **Certificates:** To view all my certificates, visit my <a href="https://www.linkedin.com/in/rishab-nagwani-53a37628a/details/certifications" target="_blank" rel="noopener noreferrer">LinkedIn profile</a>
+## 📜 Certificates:
+- To view all my certificates, visit my <a href="https://www.linkedin.com/in/rishab-nagwani-53a37628a/details/certifications" target="_blank" rel="noopener noreferrer">LinkedIn profile</a>
 
 ## 🛠️ Projects:
 I’ve developed a wide range of web applications, from simple static SPAs to dynamic full-stack applications with complex CRUD operations using ReactJS and NextJS. Currently, I’m focused on expanding my expertise in full-stack development and DevOps while keeping an eye on advancements in AI/ML, app development, and software engineering.
