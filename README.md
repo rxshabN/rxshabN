@@ -14,7 +14,7 @@ Here are some of the skills I am familiar with:
 
 - **Languages:** Python, C, C++, Java, HTML, CSS, JavaScript
 - **Frameworks:** ReactJS, NextJS, Tailwind CSS, Bootstrap, ExpressJS
-- **Tools:** Node.js, Postman, MongoDB, REST API, Razorpay API, GitHub and GitHub Co-Pilot, GitHub Pages, MS Office
+- **Tools:** Node.js, Postman, MongoDB, REST API, Razorpay API, Vercel, MS Office
 - **Certificates:** To view all my certificates, visit my <a href="https://www.linkedin.com/in/rishab-nagwani-53a37628a/details/certifications" target="_blank" rel="noopener noreferrer">LinkedIn profile</a>
 
 ## Projects
@@ -31,6 +31,8 @@ Let’s connect if you share a passion for tech innovation or are interested in 
 
 - **Email:** [nagwanirishab@gmail.com](mailto:nagwanirishab@gmail.com)
 - **Instagram:** [ri_shab.n](https://www.instagram.com/ri_shab.n/profilecard/?igsh=MTd2ZmRlczlwZHlzMg==)
+- **LinkedIn:** [rishab-nagwani](https://www.linkedin.com/in/rishab-nagwani-53a37628a/)
+
 
 ## Fun Facts
 
