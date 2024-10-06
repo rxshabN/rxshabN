@@ -1,6 +1,6 @@
-# Hi there! 💫👋
+# Hi there!👋
 
-## 👤 About Me:
+## 💫 About Me:
 I’m Rishab Nagwani, currently in my 2nd year pursuing a B.Tech in Computer Science with a specialization in AI & ML at Vellore Institute of Technology (VIT), Tamil Nadu. My journey with technology began at a young age when I first operated a computer, and I've been captivated by its logic and potential ever since. Born and raised in Mumbai, I’ve had numerous opportunities to immerse myself in the world of tech, refining my skills and expanding my knowledge.
 
 ## 🎉 Fun Facts about me:
