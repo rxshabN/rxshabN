@@ -2,13 +2,14 @@
 
 ## 💫 About Me:
 
-I’m Rishab Nagwani, currently in my 2nd year pursuing a B.Tech in Computer Science with a specialization in AI & ML at Vellore Institute of Technology (VIT), Tamil Nadu. My journey with technology began at a young age when I first operated a computer, and I've been captivated by its logic and potential ever since. Born and raised in Mumbai, I’ve had numerous opportunities to immerse myself in the world of tech, refining my skills and expanding my knowledge.
+I’m Rishab Nagwani, currently in my 2nd year pursuing B.Tech in Computer Science with specialization in AI & ML at Vellore Institute of Technology (VIT), Tamil Nadu. My journey with technology began at a young age when I first operated a computer, and I've been captivated by its logic and potential ever since. Born and raised in Mumbai, I’ve had numerous opportunities to immerse myself in the world of tech, allowing me to refine my skills and expand my knowledge. I've been grateful for these experiences, as they helped me discover my true passion.
 
 ## 🎉 Fun Facts about me:
 
-🎮 **Hobbies:** When I'm not coding, you can find me playing Valorant or exploring new tech gadgets. <br/>
-🌱 **Learning:** Currently diving deep into Kubernetes and Docker to enhance my DevOps skills. <br/>
+🎮 **Hobbies:** When I'm not coding, you can find me playing Valorant or exploring news about upcoming tech in the world of web dev, app dev, AI/ML, etc. <br/>
+🌱 **Learning:** Currently diving deep into Kubernetes and Docker to enhance my DevOps skills along with fine tuning my expertise in MERN stack development. <br/>
 🌍 **Exploring:** I love hanging out with friends and exploring the outdoors whenever I get the chance. <br/>
+🎸 **Music:** I'm also learning how to play the guitar to calm myself down during brain blocks, (every dev out there can relate with this 💀).
 
 ## 💻 Tech Stack:
 
@@ -16,7 +17,7 @@ I’m Rishab Nagwani, currently in my 2nd year pursuing a B.Tech in Computer Sci
 
 ## 🗺️ My Journey:
 
-At VIT, my goal has been to challenge myself by exploring new areas of the tech industry, and this passion has driven me to continually grow and adapt. Today, I specialize in Web Development, with a strong command of the MERN stack and expertise in automated deployment and testing. I’m proficient in programming languages like Python, C/C++, and Java, and I’m committed to deepening my knowledge of MERN full stack development, DevOps, and Data Structures & Algorithms.
+At VIT, my goal has been to challenge myself by exploring new areas of the tech industry, and this passion has driven me to continuously grow and adapt. Today, I specialize in Web Development, with a strong command of the MERN stack and expertise in automated deployment and testing. I’m proficient in programming languages like Python, C/C++, and Java, and I’m committed to deepening my knowledge of MERN full stack development, DevOps, and Data Structures & Algorithms.
 
 ## 📜 Certificates:
 
