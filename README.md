@@ -7,7 +7,7 @@ I’m Rishab Nagwani, currently in my 2nd year pursuing B.Tech in Computer Scien
 ## 🎉 Fun Facts about me:
 
 🎮 **Hobbies:** When I'm not coding, you can find me playing Valorant or exploring news about upcoming tech in the world of web dev, app dev, AI/ML, etc. <br/><br/>
-🌱 **Learning:** Currently diving deep into Kubernetes and Docker to enhance my DevOps skills along with fine tuning my expertise in MERN stack development. <br/><br/>
+🌱 **Learning:** Currently diving deep into full stack web development, learning advanced concepts such as Three.js, Prometheus/Grafana, Redis, Websockets, RESTful APIs, etc. I'm also fine tuning my expertise in MERN stack. <br/><br/>
 🌍 **Exploring:** I love hanging out with friends and exploring the outdoors whenever I get the chance. <br/><br/>
 🎸 **Music:** I'm also learning how to play the guitar to calm myself down during brain blocks, (every dev out there can relate with this 💀).
 
