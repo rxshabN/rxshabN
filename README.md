@@ -6,9 +6,9 @@ I’m Rishab Nagwani, currently in my 2nd year pursuing B.Tech in Computer Scien
 
 ## 🎉 Fun Facts about me:
 
-🎮 **Hobbies:** When I'm not coding, you can find me playing Valorant or exploring news about upcoming tech in the world of web dev, app dev, AI/ML, etc. <br/>
-🌱 **Learning:** Currently diving deep into Kubernetes and Docker to enhance my DevOps skills along with fine tuning my expertise in MERN stack development. <br/>
-🌍 **Exploring:** I love hanging out with friends and exploring the outdoors whenever I get the chance. <br/>
+🎮 **Hobbies:** When I'm not coding, you can find me playing Valorant or exploring news about upcoming tech in the world of web dev, app dev, AI/ML, etc. <br/><br/>
+🌱 **Learning:** Currently diving deep into Kubernetes and Docker to enhance my DevOps skills along with fine tuning my expertise in MERN stack development. <br/><br/>
+🌍 **Exploring:** I love hanging out with friends and exploring the outdoors whenever I get the chance. <br/><br/>
 🎸 **Music:** I'm also learning how to play the guitar to calm myself down during brain blocks, (every dev out there can relate with this 💀).
 
 ## 💻 Tech Stack:
@@ -21,7 +21,7 @@ At VIT, my goal has been to challenge myself by exploring new areas of the tech 
 
 ## 📜 Certificates:
 
-- To view all my certificates, visit my <a href="https://www.linkedin.com/in/rishab-nagwani-53a37628a/details/certifications" target="_blank" rel="noopener noreferrer">LinkedIn profile</a>
+To view all my certificates, visit my <a href="https://www.linkedin.com/in/rishab-nagwani-53a37628a/details/certifications" target="_blank" rel="noopener noreferrer">LinkedIn profile</a>
 
 ## 🛠️ Projects:
 
