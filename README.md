@@ -45,6 +45,10 @@ Let’s connect if you share a passion for tech innovation or are interested in 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rxshabN&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rxshabN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🎖️ Holopin badges
+
+[![An image of @rxshabn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rxshabn)](https://holopin.io/@rxshabn)
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
