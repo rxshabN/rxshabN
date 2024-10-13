@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://svgshare.com/i/uzj.svg" alt="Colorful Line" width="100%" height="100%"/>
+  <img src="https://svgshare.com/i/vx1.svg" alt="Stars" width="100%" />
 </p>
 
 # Hi there!👋
