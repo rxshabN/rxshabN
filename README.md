@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://svgshare.com/i/vx1.svg" alt="Stars" width="100%" />
-</p>
-
 # Hi there!👋
 
 ## 💫 About Me:
