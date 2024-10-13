@@ -1,16 +1,5 @@
-<!-- Animated Glowing Line -->
 <p align="center">
-  <svg width="100%" height="10">
-    <rect width="100%" height="5" fill="none" stroke-width="1" stroke="url(#gradient)">
-      <animate attributeName="stroke-width" values="1;5;1" dur="2s" repeatCount="indefinite" />
-    </rect>
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color: #00f; stop-opacity: 1" />
-        <stop offset="100%" style="stop-color: #0f0; stop-opacity: 1" />
-      </linearGradient>
-    </defs>
-  </svg>
+  <img src="https://svgshare.com/i/uZ2.svg" alt="glowing line"/>
 </p>
 
 # Hi there!👋
