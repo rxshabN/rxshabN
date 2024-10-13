@@ -1,5 +1,14 @@
 <p align="center">
-  <img src="https://svgshare.com/i/uZ2.svg" alt="glowing line"/>
+  <svg width="100%" height="5">
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color: #FF5733; stop-opacity: 1" />
+        <stop offset="50%" style="stop-color: #33FF57; stop-opacity: 1" />
+        <stop offset="100%" style="stop-color: #3357FF; stop-opacity: 1" />
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="5" fill="url(#gradient)" />
+  </svg>
 </p>
 
 # Hi there!👋
