@@ -1,3 +1,7 @@
+<img src="Rishab Nagwani.png" style="width: 100%">
+
+---
+
 # Hi there!👋
 
 ## 💫 About Me:
