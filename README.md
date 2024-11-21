@@ -58,16 +58,16 @@ Let’s connect if you share a passion for tech innovation or are interested in 
 
 ## 📊 GitHub Stats:
 
-<table style="width:100%; text-align:center; border:none; border-collapse:collapse;">
-  <tr style="border:none;">
-    <td style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=rxshabN&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="100"/>
+<table style="width:100%; text-align:center;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rxshabN&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="180"/>
     </td>
-    <td style="border:none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rxshabN&theme=dark&hide_border=false" alt="GitHub Streak" height="100"/>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rxshabN&theme=dark&hide_border=false" alt="GitHub Streak" height="180"/>
     </td>
-    <td style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxshabN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="100"/>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxshabN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="180"/>
     </td>
   </tr>
 </table>
