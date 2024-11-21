@@ -58,8 +58,11 @@ Let’s connect if you share a passion for tech innovation or are interested in 
 
 ## 📊 GitHub Stats:
 
-| ![](https://github-readme-stats.vercel.app/api?username=rxshabN&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=rxshabN&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rxshabN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
-| :-----------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| GitHub Stats                                                                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://github-readme-stats.vercel.app/api?username=rxshabN&theme=dark&hide_border=false&include_all_commits=false&count_private=false)                           |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=rxshabN&theme=dark&hide_border=false)                                                                      |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rxshabN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 
 ## 🎖️ Hacktober badges
 
