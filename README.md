@@ -2,7 +2,7 @@
 
 ---
 
-# Hi there!👋
+# Hey there!👋
 
 ## 💫 About Me:
 
