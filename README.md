@@ -50,12 +50,6 @@ Let’s connect if you share a passion for tech innovation or are interested in 
 - **Instagram:** [ri_shab.n](https://www.instagram.com/ri_shab.n/profilecard/?igsh=MTd2ZmRlczlwZHlzMg==)
 - **LinkedIn:** [rishab-nagwani](https://www.linkedin.com/in/rishab-nagwani-53a37628a/)
 
-<!-- ## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=rxshabN&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rxshabN&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rxshabN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-
 ## 📊 GitHub Stats:
 
 <table style="width:100%; text-align:center;">
