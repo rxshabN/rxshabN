@@ -6,7 +6,7 @@
 
 ## 💫 About Me:
 
-I’m Rishab Nagwani, currently in my 2nd year pursuing B.Tech in Computer Science with specialization in AI & ML at Vellore Institute of Technology (VIT), Tamil Nadu. My journey with technology began at a young age when I first operated a computer, and I've been captivated by its logic and potential ever since. Born and raised in Mumbai, I’ve had numerous opportunities to immerse myself in the world of tech, allowing me to refine my skills and expand my knowledge. I've been grateful for these experiences, as they helped me discover my true passion.
+I’m Rishab Nagwani, currently in my 2nd year pursuing B.Tech in Computer Science with specialization in AI & ML at Vellore Institute of Technology, Vellore, Tamil Nadu. My journey with technology began at a young age when I first operated a computer, and I've been captivated by its logic and potential ever since. Born and raised in Mumbai, I’ve had numerous opportunities to immerse myself in the world of tech, allowing me to refine my skills and expand my knowledge. I've been grateful for these experiences, as they helped me discover my true passion.
 
 ## 🎉 Fun Facts about me:
 
@@ -46,6 +46,7 @@ My goal is to not just learn but to leverage my technical skills to solve real-w
 
 Let’s connect if you share a passion for tech innovation or are interested in collaborating on impactful projects!
 
+- **Portfolio:** [rishabnagwani.tech](https://www.rishabnagwani.tech)
 - **Email:** [nagwanirishab@gmail.com](mailto:nagwanirishab@gmail.com)
 - **Instagram:** [ri_shab.n](https://www.instagram.com/ri_shab.n/profilecard/?igsh=MTd2ZmRlczlwZHlzMg==)
 - **LinkedIn:** [rishab-nagwani](https://www.linkedin.com/in/rishab-nagwani-53a37628a/)
