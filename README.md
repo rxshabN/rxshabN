@@ -25,7 +25,7 @@ At VIT, my goal has been to challenge myself by exploring new areas of the tech 
 
 ## 📜 Certificates:
 
-To view all my certificates, visit my <a href="https://www.linkedin.com/in/rishab-nagwani-53a37628a/details/certifications" target="_blank" rel="noopener noreferrer">LinkedIn profile</a>
+To view all my certificates, visit my <a href="https://www.linkedin.com/in/rishabnagwani/details/certifications" target="_blank" rel="noopener noreferrer">LinkedIn profile</a>
 
 ## 🛠️ Projects:
 
