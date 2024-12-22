@@ -11,7 +11,7 @@ I’m Rishab Nagwani, currently in my 2nd year pursuing B.Tech in Computer Scien
 ## 🎉 Fun Facts about me:
 
 🎮 **Hobbies:** When I'm not coding, you can find me playing Valorant or exploring news about upcoming tech in the world of web dev, app dev, AI/ML, etc. <br/><br/>
-🌱 **Learning:** Currently diving deep into full stack web development, learning advanced concepts such as Three.js, Prometheus/Grafana, Redis, Encore.ts, RESTful APIs, etc. I'm also fine tuning my expertise in MERN stack. <br/><br/>
+🌱 **Learning:** Currently diving deep into full stack web development, learning advanced concepts such as Three.js, Prometheus/Grafana, Redis, Encore.ts, RESTful APIs, etc. I'm also fine tuning my expertise in full stack and beyond. <br/><br/>
 🌍 **Exploring:** I love hanging out with friends and exploring the outdoors whenever I get the chance. <br/><br/>
 🎸 **Music:** I'm also learning how to play the guitar to calm myself down during brain blocks, (every dev out there can relate with this 💀).
 
@@ -21,7 +21,7 @@ I’m Rishab Nagwani, currently in my 2nd year pursuing B.Tech in Computer Scien
 
 ## 🗺️ My Journey:
 
-At VIT, my goal has been to challenge myself by exploring new areas of the tech industry, and this passion has driven me to continuously grow and adapt. Today, I specialize in Web Development, with a strong command of the MERN stack and expertise in automated deployment and testing. I’m proficient in programming languages like Python, C++, and Java, and I’m committed to deepening my knowledge of MERN full stack development and Data Structures & Algorithms.
+At VIT, my goal has been to challenge myself by exploring new areas of the tech industry, and this passion has driven me to continuously grow and adapt. Today, I specialize in Web Development, with a strong command of full stack development and expertise in automated deployment and testing. I’m proficient in programming languages like Python, C++, and Java, and I’m committed to deepening my knowledge of full stack development and data structures & algorithms.
 
 ## 📜 Certificates:
 
