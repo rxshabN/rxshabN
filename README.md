@@ -1,4 +1,4 @@
-<img src="Rishab Nagwani.png" style="width: 100%">
+<img src="suggu-banner.png" style="width: 100%">
 
 ---
 
