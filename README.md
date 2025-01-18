@@ -57,10 +57,10 @@ Let’s connect if you share a passion for tech innovation or are interested in 
 <table style="width:100%; text-align:center;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rxshabN&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="auto"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=rxshabN&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="250"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxshabN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="auto"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxshabN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="250"/>
     </td>
   </tr>
 </table>
