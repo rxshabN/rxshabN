@@ -32,7 +32,7 @@ To view all my certificates, visit my <a href="https://www.linkedin.com/in/risha
 I’ve developed a wide range of web applications, from simple static SPAs to dynamic full-stack applications with complex CRUD operations using ReactJS and NextJS along with MongoDB and PostgreSQL as database service. Currently, I’m focused on enhancing my expertise in full-stack development and DSA while keeping an eye on advancements in AI/ML, app development, and software engineering. Some of my projects include:
 
 - <a href="https://github.com/rxshabN/project-manager" target="_blank" rel="noopener noreferrer">Project Manager</a>
-- <a href="https://github.com/rxshabN/discord-clone" target="_blank" rel="noopener noreferrer">Discord Clone</a>
+- <a href="https://discord-clone-rn.vercel.app" target="_blank" rel="noopener noreferrer">Discord Clone</a>
 - <a href="https://github.com/rxshabN/patreon-clone" target="_blank" rel="noopener noreferrer">Patreon Clone</a>
 - <a href="https://github.com/rxshabN/Password-Manager---mongodb" target="_blank" rel="noopener noreferrer">Password Manager</a>
 
