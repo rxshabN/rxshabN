@@ -21,7 +21,7 @@ I’m Rishab Nagwani, currently in my 2nd year pursuing B.Tech in Computer Scien
 
 ## 🗺️ My Journey:
 
-At VIT, my goal has been to challenge myself by exploring new areas of the tech industry, and this passion has driven me to continuously grow and adapt. Today, I specialize in Web Development, with a strong command of full stack development and expertise in automated deployment and testing. I’ve also learned programming languages like Python, C++, and Java, and I’m committed to deepening my knowledge of full stack development and data structures & algorithms.
+At VIT, my goal has been to challenge myself by exploring new areas of the tech industry, and this passion has driven me to continuously grow and adapt. Today, I am the Technical Head of SIAM-VIT organization, specializing in Web Development, with a strong command of full stack development and expertise in automated deployment and testing. I’ve also learned programming languages like Python, C++, and Java, and I’m committed to deepening my knowledge of full stack development and data structures & algorithms.
 
 ## 📜 Certificates:
 
