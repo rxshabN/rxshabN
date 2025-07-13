@@ -50,7 +50,6 @@ Let’s connect if you share a passion for tech innovation or are interested in 
 - **Email:** [nagwanirishab@gmail.com](mailto:nagwanirishab@gmail.com)
 - **Instagram:** [ri_shab.n](https://www.instagram.com/ri_shab.n/profilecard/?igsh=MTd2ZmRlczlwZHlzMg==)
 - **LinkedIn:** [rishabnagwani](https://www.linkedin.com/in/rishabnagwani/)
-- **Peerlist:** [rishabnagwani](https://peerlist.io/rishabnagwani)
 
 ## 📊 GitHub Stats:
 
